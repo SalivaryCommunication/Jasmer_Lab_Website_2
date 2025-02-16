@@ -1,19 +1,17 @@
 # site properties and page defaults
-title: SalivaryCommunication
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Jasmer Lab
+subtitle: Translating Cellular Dialogue into Therapeutic Strategies for Salivary Gland Disorders
+description: Research in the Jasmer lab focuses on the ways in which immune cells within the inflamed salivary gland communicate with their cellular neighbors. We are interested in understanding the spatial organization and composition of these cellular neighborhoods and how cellular conversations impact disease progression. 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@SalivaryCommunication.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: SalivaryCommunication
-  twitter: SalivaryCommunication
-  youtube: SalivaryCommunication
+  email: Kimberly.Jasmer@Louisville.edu
+  orcid: 0000-0002-8669-428X
+  google-scholar: lC4UqBwAAAAJ
+  twitter: Swimberly
 
 ### jekyll settings
 
