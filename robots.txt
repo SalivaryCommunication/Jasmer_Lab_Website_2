@@ -1,1 +1,1 @@
-Sitemap: https://salivarycommunication.github.io/Jasmer_Lab_Website_2/sitemap.xml
+Sitemap: https://www.jasmerlab.org/sitemap.xml
