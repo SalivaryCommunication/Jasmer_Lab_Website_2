@@ -1,9 +1,9 @@
 ---
 ---
 
-# SalivaryCommunication's Website
+# Jasmer Lab: Targeting Cellular Communication to Restore Salivary Function
 
-An engaging 1-3 sentence description of your lab.
+We aim to understand cellular communication between salivary gland immune cells and their neighbors, how these conversations mediate behavior changes, and how altered communication drives disease. 
 
 {% include section.html %}
 
