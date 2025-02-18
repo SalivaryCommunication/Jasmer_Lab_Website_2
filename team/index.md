@@ -4,7 +4,14 @@ nav:
   order: 3
   tooltip: About our team
 ---
-
+name: Kimberly Jasmer
+image: images/team/2024-11-7_Jasmer, Kimberly_Dental_SCH_4630.jpg
+role: Principle Investigator
+description: Oral Immunology & Infectious Diseases
+links:
+  home-page: [https://tims-website.com/](https://louisville.edu/dentistry/departments/oralhealth/faculty/kimberly-jasmer-phd)
+  email: Kimberly.Jasmer@Louisville.edu
+  twitter: Swimberly
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -26,7 +33,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% capture content %}
 
-{% include figure.html image="images/2024-11-7_Jasmer, Kimberly_Dental_SCH_4630.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
