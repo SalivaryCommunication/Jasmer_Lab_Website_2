@@ -7,7 +7,7 @@ aliases:
   - K. Jasmer
   - KJ Jasmer
 links:
-  home-page: [https://janesmith.com](https://louisville.edu/dentistry/departments/oralhealth/faculty/kimberly-jasmer-phd)
+  home-page: [https://louisville.edu/dentistry/departments/oralhealth/faculty/kimberly-jasmer-phd]
   orcid: 0000-0002-8669-428X
 ---
 
