@@ -1,14 +1,14 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Kimberly Jasmer
+image: images/2024-11-7_Jasmer, Kimberly_Dental_SCH_4630.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: University of Louisville School of Dentistry
 aliases:
-  - J. Smith
-  - J Smith
+  - K. Jasmer
+  - KJ Jasmer
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: [https://janesmith.com](https://louisville.edu/dentistry/departments/oralhealth/faculty/kimberly-jasmer-phd)
+  orcid: 0000-0002-8669-428X
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
